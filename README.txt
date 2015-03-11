@@ -1,1 +1,1 @@
-test
+Here's a Python implementation of Bjorn Bergstrom's excellent recursive shadowcasting FOV algorithm.it should work on *nix with the standard curses module.the souce code from http://www.roguebasin.com/index.php?title=Python_shadowcasting_implementation,i  translate it to Go.
