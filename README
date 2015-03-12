@@ -3,6 +3,6 @@ it should work on *nix with the standard curses module.
 the souce code from http://www.roguebasin.com/index.php?title=Python_shadowcasting_implementation
 
 i  translate it to Go.
-t
+
 run example:
 go run shadowcasting.go
